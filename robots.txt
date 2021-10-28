@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://forum-syair-hk.pages.dev/sitemap.xml
